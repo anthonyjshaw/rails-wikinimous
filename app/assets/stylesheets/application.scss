@@ -1,0 +1,10 @@
+@import "bootstrap/scss/bootstrap";
+body {
+  margin: 0;
+}
+
+.overflow {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow:  ellipsis;
+}
